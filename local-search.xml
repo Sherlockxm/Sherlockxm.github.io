@@ -23,6 +23,25 @@
   
   
   <entry>
+    <title>搭建Blog的一些感想</title>
+    <link href="/2025/03/13/%E6%90%AD%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95/"/>
+    <url>/2025/03/13/%E6%90%AD%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%80%E4%BA%9B%E6%83%B3%E6%B3%95/</url>
+    
+    <content type="html"><![CDATA[<h2 id="起因："><a href="#起因：" class="headerlink" title="起因："></a>起因：</h2><ul><li>之前自己买过一个服务器自己搭了一个网站打算写博客，但是由于每个月要付几百的月租费，就想着独立搭建一个不需要服务器的博客网站，经过搜集资料发现可以通过GitHub＋Nodejs＋git+hexo来本地部署一个博客网站之后再来上传到GitHubpages，这样一来就可以有一个写博客的网站了，本人用了约15小时的时间搭建了一个大概，若各位读者有好的想法可以在下方评论</li></ul><hr><p>因为主要过程过于繁琐，所以将具体搭建过程中的方法和一些链接摆上</p><ul><li><strong>主线：</strong> [CSDN](<a href="https://blog.csdn.net/yaorongke/article/details/119089190?ops_request_misc=%257B%2522request%255Fid%2522%253A%25222c4c420f7ee51191db81af9a8fb06484%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=2c4c420f7ee51191db81af9a8fb06484&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-119089190-null-null.142%5Ev102%5Epc_search_result_base7&utm_term=github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99&spm=1018.2226.3001.4187">GitHub Pages + Hexo搭建个人博客网站，史上最全教程_hexo博客-CSDN博客</a>)</li><li><strong>Git:</strong> [git](<a href="https://liaoxuefeng.com/books/git/create-repo/index.html">创建版本库 - Git教程 - 廖雪峰的官方网站</a>)</li><li><strong>Hexo插入图片无法显示的问题</strong> [Hexo](<a href="https://blog.asroads.com/post/95d84581.html">Hexo生成博文插入图片 | Asroads’Blog</a>)</li></ul><h4 id="首先注册一个GitHub的账号"><a href="#首先注册一个GitHub的账号" class="headerlink" title="首先注册一个GitHub的账号"></a>首先注册一个GitHub的账号</h4><h4 id="其次下载并配置NodeJs和Git"><a href="#其次下载并配置NodeJs和Git" class="headerlink" title="其次下载并配置NodeJs和Git"></a>其次下载并配置NodeJs和Git</h4><h4 id="再然后按照上述链接里进行本地部署"><a href="#再然后按照上述链接里进行本地部署" class="headerlink" title="再然后按照上述链接里进行本地部署"></a>再然后按照上述链接里进行本地部署</h4><h4 id="最后再通过cmd指令在hexo文件夹下或者gitbash上传到GitHub"><a href="#最后再通过cmd指令在hexo文件夹下或者gitbash上传到GitHub" class="headerlink" title="最后再通过cmd指令在hexo文件夹下或者gitbash上传到GitHub"></a>最后再通过cmd指令在hexo文件夹下或者gitbash上传到GitHub</h4><ul><li>如果有相关问题可以找我咨询，我尽己所能帮助你，谢谢阅读！</li></ul><hr>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>thoughts</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2025/03/12/hello-world/"/>
     <url>/2025/03/12/hello-world/</url>
