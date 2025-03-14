@@ -4,12 +4,12 @@
   position: fixed;
   bottom: 30px;
   right: 30px;
-  width: 280px;          /* 控制宽度 */
-  height: 80px;          /* 控制高度 */
+  width: 250px;          /* 控制宽度 */
+  height: 60px;          /* 控制高度 */
   border-radius: 12px;   /* 圆角效果 */
   box-shadow: 0 6px 20px rgba(0,0,0,0.12); /* 立体阴影 */
   overflow: hidden;      /* 隐藏溢出内容 */
-  opacity: 0.9;
+  opacity: 0.6;
   transition: 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
   transform: translateY(5px); /* 初始下沉效果 */
   z-index: 999;
