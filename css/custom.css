@@ -4,8 +4,8 @@
   position: fixed;
   bottom: 30px;
   right: 30px;
-  width: 250px;          /* 控制宽度 */
-  height: 60px;          /* 控制高度 */
+  width: 280px;          /* 控制宽度 */
+  height: 80px;          /* 控制高度 */
   border-radius: 12px;   /* 圆角效果 */
   box-shadow: 0 6px 20px rgba(0,0,0,0.12); /* 立体阴影 */
   overflow: hidden;      /* 隐藏溢出内容 */
