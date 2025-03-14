@@ -59,6 +59,10 @@
 
 
 
+  
+<link rel="stylesheet" href="/css/custom.css">
+
+
 
   <script id="fluid-configs">
     var Fluid = window.Fluid || {};
@@ -315,6 +319,25 @@
   
   
 </div>
+<!-- 网易云音乐外链播放器 -->
+<div class="netease-music-player">
+  <iframe
+    frameborder="no"
+    allow="autoplay; encrypted-media"
+    src="//music.163.com/outchain/player?type=2&id=552194857&auto=1&height=66&muted=1"
+    style="border:none"
+  ></iframe>
+</div>
+
+<script>
+  // 用户交互后解除静音并播放
+  document.addEventListener('click', function initPlay() {
+  const iframe = document.querySelector('.netease-music-player iframe');
+  iframe.src = iframe.src.replace('&muted=1', '&muted=0'); // 解除静音
+  iframe.contentWindow.postMessage({ command: 'play' }, '*');
+  document.removeEventListener('click', initPlay);
+  });
+</script>
 
   </footer>
 

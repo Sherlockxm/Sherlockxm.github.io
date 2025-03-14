@@ -67,6 +67,10 @@
 
 
 
+  
+<link rel="stylesheet" href="/css/custom.css">
+
+
 
   <script id="fluid-configs">
     var Fluid = window.Fluid || {};
@@ -288,7 +292,7 @@
 <li>INFJ</li>
 </ul>
 <h3 id="Call-me"><a href="#Call-me" class="headerlink" title="Call me"></a>Call me</h3><ul>
-<li>📧 邮箱：<a href="mailto:&#50;&#x37;&#x33;&#x37;&#54;&#49;&#56;&#48;&#x31;&#x38;&#x40;&#x71;&#x71;&#46;&#99;&#111;&#x6d;">2737618018@qq.com</a></li>
+<li>📧 邮箱：<a href="mailto:&#50;&#x37;&#x33;&#x37;&#54;&#x31;&#56;&#x30;&#x31;&#x38;&#64;&#113;&#x71;&#x2e;&#99;&#x6f;&#x6d;">2737618018@qq.com</a></li>
 <li>💼 GitHub：<a target="_blank" rel="noopener" href="https://github.com/Sherlockxm">Sherlockxm</a></li>
 </ul>
 
@@ -399,6 +403,25 @@
   
   
 </div>
+<!-- 网易云音乐外链播放器 -->
+<div class="netease-music-player">
+  <iframe
+    frameborder="no"
+    allow="autoplay; encrypted-media"
+    src="//music.163.com/outchain/player?type=2&id=552194857&auto=1&height=66&muted=1"
+    style="border:none"
+  ></iframe>
+</div>
+
+<script>
+  // 用户交互后解除静音并播放
+  document.addEventListener('click', function initPlay() {
+  const iframe = document.querySelector('.netease-music-player iframe');
+  iframe.src = iframe.src.replace('&muted=1', '&muted=0'); // 解除静音
+  iframe.contentWindow.postMessage({ command: 'play' }, '*');
+  document.removeEventListener('click', initPlay);
+  });
+</script>
 
   </footer>
 
