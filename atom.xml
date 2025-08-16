@@ -3,11 +3,11 @@
   <title>白露秋のBlog</title>
   
   <subtitle>过客千千结，何需千千解</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://sherlockxm.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://sherlockxm.github.io/"/>
   <updated>2025-08-16T14:04:38.233Z</updated>
-  <id>http://example.com/</id>
+  <id>https://sherlockxm.github.io/</id>
   
   <author>
     <name>白露秋</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>关于Markdown语法</title>
-    <link href="http://example.com/2025/08/15/Markdown%E8%AF%AD%E6%B3%95/"/>
-    <id>http://example.com/2025/08/15/Markdown%E8%AF%AD%E6%B3%95/</id>
+    <link href="https://sherlockxm.github.io/2025/08/15/Markdown%E8%AF%AD%E6%B3%95/"/>
+    <id>https://sherlockxm.github.io/2025/08/15/Markdown%E8%AF%AD%E6%B3%95/</id>
     <published>2025-08-14T16:00:00.000Z</published>
     <updated>2025-08-16T14:04:38.233Z</updated>
     
@@ -36,17 +36,17 @@
     
     
     
-    <category term="技术" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://sherlockxm.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="study" scheme="http://example.com/tags/study/"/>
+    <category term="study" scheme="https://sherlockxm.github.io/tags/study/"/>
     
   </entry>
   
   <entry>
     <title>数学公式渲染测试</title>
-    <link href="http://example.com/2025/08/13/MathTest/"/>
-    <id>http://example.com/2025/08/13/MathTest/</id>
+    <link href="https://sherlockxm.github.io/2025/08/13/MathTest/"/>
+    <id>https://sherlockxm.github.io/2025/08/13/MathTest/</id>
     <published>2025-08-13T04:00:00.000Z</published>
     <updated>2025-08-16T05:36:48.844Z</updated>
     
@@ -62,19 +62,19 @@
     
     
     
-    <category term="随笔" scheme="http://example.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://sherlockxm.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="math" scheme="http://example.com/tags/math/"/>
+    <category term="math" scheme="https://sherlockxm.github.io/tags/math/"/>
     
-    <category term="katex" scheme="http://example.com/tags/katex/"/>
+    <category term="katex" scheme="https://sherlockxm.github.io/tags/katex/"/>
     
   </entry>
   
   <entry>
     <title>搭建Blog的一些感想</title>
-    <link href="http://example.com/2025/08/13/%E6%90%AD%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%83%B3%E6%B3%95/"/>
-    <id>http://example.com/2025/08/13/%E6%90%AD%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%83%B3%E6%B3%95/</id>
+    <link href="https://sherlockxm.github.io/2025/08/13/%E6%90%AD%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%83%B3%E6%B3%95/"/>
+    <id>https://sherlockxm.github.io/2025/08/13/%E6%90%AD%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%83%B3%E6%B3%95/</id>
     <published>2025-08-12T16:00:00.000Z</published>
     <updated>2025-08-16T13:51:24.751Z</updated>
     
@@ -90,10 +90,10 @@
     
     
     
-    <category term="随笔" scheme="http://example.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://sherlockxm.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="thoughts" scheme="http://example.com/tags/thoughts/"/>
+    <category term="thoughts" scheme="https://sherlockxm.github.io/tags/thoughts/"/>
     
   </entry>
   
