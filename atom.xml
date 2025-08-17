@@ -6,7 +6,7 @@
   <link href="https://sherlockxm.github.io/atom.xml" rel="self"/>
   
   <link href="https://sherlockxm.github.io/"/>
-  <updated>2025-08-16T14:04:38.233Z</updated>
+  <updated>2025-08-17T09:48:28.944Z</updated>
   <id>https://sherlockxm.github.io/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>人际关系</title>
+    <link href="https://sherlockxm.github.io/2025/08/15/8.14%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sherlockxm.github.io/2025/08/15/8.14%E9%9A%8F%E7%AC%94/</id>
+    <published>2025-08-14T16:00:00.000Z</published>
+    <updated>2025-08-17T09:48:28.944Z</updated>
+    
+    <content type="html"><![CDATA[<hr /><p>无论你多么珍视一段关系，都不必执着于它能延续多久，或是否拥有所谓的“圆满结局”。</p><p>因为在这趟生命的旅程里，所有与我们交汇的灵魂、挚友、知己、爱人，乃至擦肩而过的温暖，都是命运慷慨赠予的厚礼，曾经拥有，已是无上幸运。你要明白，有些人的降临，仿佛就是为了在某个特定的时空里，为你点亮一盏灯，陪你走过一段独一无二的路途。即使后来轨迹不再重叠，渐行渐远，也请记得：并非所有告别都需要盛大的仪式，倾尽全力地珍惜过、付出过，便是对这段缘分最好的交代。相逢或许是前缘未了，需要彼此照见与偿还、分离，不过是心债已清，各自圆满。我坦然接受每一次心动的邀约，也勇敢承担它可能带来的落幕，我选择的人生，要如赤子般真诚，如火焰般炽热。</p><p>世事并非总有答案，人生难求事事如愿。那些共同书写的动人篇章，曾如此璀璨夺目，照亮了彼此的天空。即便故事没有续集，也无需遗憾叹息。因为那些刻骨铭心的身影，那些熠熠生辉的瞬间，早已融入你的骨血。它们会在你行至幽暗低谷时，悄然升起，化作心底不灭的星光，指引你继续前行。</p><p>很喜欢这样的心境：<br />“飞鸟与游鱼各有天地”，不必困惑于为何不能成为某人心中的“唯一”的朋友，或为何得不到某些人的偏爱，冥冥之中自有安排，属于你的同路人，时光自会为你引至身旁。</p><p>别为那些本就不属于你的人生章节而踟蹰，永远珍视“真心换真心”的信条，永远选择做一个真诚的人，即使真心曾被辜负，也无需动摇，那恰恰证明了对对方的浅薄，无法匹配你灵魂的质地，时间是最公正的筛子，滤去浮尘，留下的，皆是珍宝。人生如书，风吹哪页读哪页，晦涩难懂处，不妨轻轻翻过，你无需让所有目光都聚焦于你，更不必强求所有人的喜爱。真正的智慧，是让那些被你吸引、真心喜欢你的人，由衷庆幸自己的眼光。</p><p>诚如智者所言：“需要极深的缘分，才能在相同的路上反复同行，在同一处风景前驻足流连，与同一人不断重逢。”而对的人纵使百转千回，终会重逢，错的人看似同行一段，终将离散。这一生不必刻意追寻谁，也无需勉强挽留谁，若一扇心门久叩不应，适时止步，是予人的体面，亦是予己的尊严，每一个没有血缘牵绊却依然对你好、为你付出的人，都是命运馈赠的奇迹。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr /&gt;
+&lt;p&gt;无论你多么珍视一段关系，都不必执着于它能延续多久，或是否拥有所谓的“圆满结局”。&lt;/p&gt;
+&lt;p&gt;因为在这趟生命的旅程里，所有与我们交汇的灵魂、挚友、知己、爱人，乃至擦肩而过的温暖，都是命运慷慨赠予的厚礼，曾经拥有，已是无上幸运。你要明白，有些人的降临，仿佛就是</summary>
+      
+    
+    
+    
+    
+    <category term="thoughts" scheme="https://sherlockxm.github.io/tags/thoughts/"/>
+    
+    <category term="随笔" scheme="https://sherlockxm.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
     <title>关于Markdown语法</title>
     <link href="https://sherlockxm.github.io/2025/08/15/Markdown%E8%AF%AD%E6%B3%95/"/>
     <id>https://sherlockxm.github.io/2025/08/15/Markdown%E8%AF%AD%E6%B3%95/</id>
     <published>2025-08-14T16:00:00.000Z</published>
-    <updated>2025-08-16T14:04:38.233Z</updated>
+    <updated>2025-08-17T09:13:19.166Z</updated>
     
     <content type="html"><![CDATA[<hr /><h1 id="markdown的语法"><a class="markdownIt-Anchor" href="#markdown的语法"></a> Markdown的语法</h1><p><strong>一、标题</strong></p><h1 id="heading-1"><a class="markdownIt-Anchor" href="#heading-1"></a> Heading 1</h1><ul><li>我今天学习了obsidian的使用</li><li>看，这是一级标题</li></ul><h2 id="heading-2"><a class="markdownIt-Anchor" href="#heading-2"></a> Heading 2</h2><ul><li>这是二级标题</li></ul><h3 id="heading-3"><a class="markdownIt-Anchor" href="#heading-3"></a> Heading 3</h3><ul><li>这是三级标题</li></ul><h4 id="heading-4"><a class="markdownIt-Anchor" href="#heading-4"></a> Heading 4</h4><ul><li>这是四级标题</li></ul><h5 id="heading-5"><a class="markdownIt-Anchor" href="#heading-5"></a> Heading 5</h5><ul><li>这是五级标题</li></ul><h6 id="heading-6"><a class="markdownIt-Anchor" href="#heading-6"></a> Heading  6</h6><ul><li>这是六级标题</li><li>markodown，语法好像只能最多到六级标题</li></ul><p><strong>二、字体</strong><br /><strong>1、加粗</strong></p><pre><code>** 加粗 **</code></pre><ul><li>example <strong>加粗</strong></li></ul><p><strong>2.倾斜</strong></p><pre><code> * 倾斜 *</code></pre><ul><li><em>倾斜</em></li></ul><p><strong>3.斜体加粗</strong></p><pre><code>*** 斜体加粗 ***</code></pre><ul><li><em><strong>斜体加粗</strong></em></li></ul><p><strong>4.删除线</strong></p><pre><code>~~ 删除线 ~~</code></pre><ul><li><s>删除线</s></li></ul><p><strong>5.上标</strong></p><pre><code>就是^ ^</code></pre><p><strong>6.下标</strong></p><pre><code>就是~ ~</code></pre><p><strong>7.高亮</strong></p><pre><code> == 高亮 ==</code></pre><ul><li>比如<mark>高亮</mark></li></ul><p><strong>三、链接</strong><br />链接格式：<code>[链接文本](链接地址)</code>；</p><ul><li>比如：<a href="https://ultrafish.io">UltraFish</a></li></ul><p><strong>四、图像</strong><br />图片格式：<code>![图片描述](图片地址)</code>；</p><ul><li>such as：<img src="https://ultrafish.io/post/take-note-by-markdown/9.png" alt="无" /></li></ul><p><strong>五、列表</strong></p><ul><li>无序列表：在文本前加一个<code>-</code>，并空格；</li><li>有序列表：在文本前加一个数字，后面加一个<code>.</code>，并空格；</li><li>可以嵌套列表</li></ul><ol><li>列表1</li><li>列表2<br />1.look<br />2.see<br />3.列表3</li></ol><p><strong>六、代码</strong><br />行内代码：<code>code</code><br />如果是一段代码就是:</p><figure class="highlight plaintext"><figcaption><span>static void main(String[] args) &#123;</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">System.out.println(&quot;Hello World!&quot;);  </span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><ul><li>[ ] 任务1</li><li>[x] 任务2</li><li>[ ] 任务3</li><li>[ ] 生成任务列表的关键就是你要在输入- [ ]完<mark>再按一次空格键</mark></li></ul><p><strong>七、邮箱地址</strong></p><ul><li>用==&lt;&gt;==可以将你的邮箱作为链接打开</li></ul><p>本文图片:  <img src="/images/covers/Markdown.png" alt="图片" /></p><hr />]]></content>
     
@@ -48,7 +74,7 @@
     <link href="https://sherlockxm.github.io/2025/08/13/MathTest/"/>
     <id>https://sherlockxm.github.io/2025/08/13/MathTest/</id>
     <published>2025-08-13T04:00:00.000Z</published>
-    <updated>2025-08-16T05:36:48.844Z</updated>
+    <updated>2025-08-17T09:13:18.001Z</updated>
     
     <content type="html"><![CDATA[<h2 id="行内公式"><a class="markdownIt-Anchor" href="#行内公式"></a> 行内公式</h2><p>勾股定理：$a^2 + b^2 &#x3D; c^2$</p><p>泰勒展开：$\displaystyle \sin x &#x3D; x - \frac{x^3}{3!} + \frac{x^5}{5!} - \cdots$</p><h2 id="块级公式"><a class="markdownIt-Anchor" href="#块级公式"></a> 块级公式</h2><p>二次公式：</p><p>$$x &#x3D; \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$</p><p>矩阵：</p><p>$$\begin{pmatrix}1 &amp; 2 &amp; 3 \\4 &amp; 5 &amp; 6 \\7 &amp; 8 &amp; 9\end{pmatrix}$$</p><p>多重积分：</p><p>$$\iint_D f(x,y)\,\mathrm{d}x\,\mathrm{d}y$$</p><p>分段函数：</p><p>$$f(n) &#x3D;\begin{cases}n&#x2F;2, &amp; \text{if } n \text{ is even} \\3n+1, &amp; \text{if } n \text{ is odd}\end{cases}$$</p><p>极限与求和：</p><p>$$\lim_{x \to 0} \frac{\sin x}{x} &#x3D; 1,\qquad\sum_{k&#x3D;1}^{\infty} \frac{1}{k^2} &#x3D; \frac{\pi^2}{6}$$</p>]]></content>
     
@@ -62,7 +88,7 @@
     
     
     
-    <category term="随笔" scheme="https://sherlockxm.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="技术" scheme="https://sherlockxm.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
     <category term="math" scheme="https://sherlockxm.github.io/tags/math/"/>
@@ -76,7 +102,7 @@
     <link href="https://sherlockxm.github.io/2025/08/13/%E6%90%AD%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%83%B3%E6%B3%95/"/>
     <id>https://sherlockxm.github.io/2025/08/13/%E6%90%AD%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%83%B3%E6%B3%95/</id>
     <published>2025-08-12T16:00:00.000Z</published>
-    <updated>2025-08-16T13:51:24.751Z</updated>
+    <updated>2025-08-17T09:13:16.383Z</updated>
     
     <content type="html"><![CDATA[<h2 id="起因"><a class="markdownIt-Anchor" href="#起因"></a> 起因：</h2><ul><li>之前自己买过一个服务器自己搭了一个网站打算写博客，但是由于每个月要付几百的月租费，就想着独立搭建一个不需要服务器的博客网站，经过搜集资料发现可以通过GitHub＋Nodejs＋git+hexo来本地部署一个博客网站之后再来上传到GitHubpages，这样一来就可以有一个写博客的网站了，本人用了约15小时的时间搭建了一个大概，若各位读者有好的想法可以在下方评论</li></ul><hr /><p>因为主要过程过于繁琐，所以将具体搭建过程中的方法和一些链接摆上</p><ul><li><strong>主线：</strong> [CSDN](<a href="https://blog.csdn.net/yaorongke/article/details/119089190?ops_request_misc=%257B%2522request%255Fid%2522%253A%25222c4c420f7ee51191db81af9a8fb06484%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=2c4c420f7ee51191db81af9a8fb06484&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-119089190-null-null.142%5Ev102%5Epc_search_result_base7&amp;utm_term=github%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99&amp;spm=1018.2226.3001.4187">GitHub Pages + Hexo搭建个人博客网站，史上最全教程_hexo博客-CSDN博客</a>)</li><li><strong>Git:</strong> [git](<a href="https://liaoxuefeng.com/books/git/create-repo/index.html">创建版本库 - Git教程 - 廖雪峰的官方网站</a>)</li><li><strong>Hexo插入图片无法显示的问题</strong> [Hexo](<a href="https://blog.asroads.com/post/95d84581.html">Hexo生成博文插入图片 | Asroads’Blog</a>)</li></ul><h4 id="首先注册一个github的账号"><a class="markdownIt-Anchor" href="#首先注册一个github的账号"></a> 首先注册一个GitHub的账号</h4><h4 id="其次下载并配置nodejs和git"><a class="markdownIt-Anchor" href="#其次下载并配置nodejs和git"></a> 其次下载并配置NodeJs和Git</h4><h4 id="再然后按照上述链接里进行本地部署"><a class="markdownIt-Anchor" href="#再然后按照上述链接里进行本地部署"></a> 再然后按照上述链接里进行本地部署</h4><h4 id="最后再通过cmd指令在hexo文件夹下或者gitbash上传到github"><a class="markdownIt-Anchor" href="#最后再通过cmd指令在hexo文件夹下或者gitbash上传到github"></a> 最后再通过cmd指令在hexo文件夹下或者gitbash上传到GitHub</h4><ul><li>如果有相关问题可以找我咨询，我尽己所能帮助你，谢谢阅读！</li></ul><hr />]]></content>
     
